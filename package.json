@@ -4,9 +4,9 @@
   "description": "An extension that replicates the User Secrets management present on Visual Studio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nanny07/vscode-user-secret-management"
+    "url": "https://github.com/mbatchelor81/vscode-user-secret-management"
   },
-  "publisher": "giannibonicolini",
+  "publisher": "mbatchelor81",
   "author": {
     "email": "nanny07@gmail.com",
     "name": "Gianni Bonicolini",
@@ -17,7 +17,7 @@
     "email": "nanny07@gmail.com"
   },
   "icon": "images/icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.82.0"
   },

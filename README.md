@@ -1,3 +1,8 @@
+# Fork Notice
+This repository is an unmodified fork of [nanny07/vscode-user-secret-management](https://github.com/nanny07/vscode-user-secret-management).
+<br><br>All authorship, copyright, and ownership remain with the original authors.
+<br><br>Modifications are limited to packaging and publication on the OpenVSX Marketplace.
+
 # User Secrets Management
 
 View and manages user secretes for .NET Core/.NET5+ projects just like in Visual Studio.
